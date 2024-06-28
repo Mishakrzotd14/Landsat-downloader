@@ -1,0 +1,9 @@
+CTkTable==0.8
+CTkTable==1.1
+darkdetect==0.8.0
+landsatxplore==0.15.0
+packaging==24.1
+Pillow==10.3.0
+setuptools==68.0.0
+tkcalendar==1.6.1
+typing_extensions==4.12.2
